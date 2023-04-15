@@ -11,7 +11,8 @@ int main()
 
   cout << "Enter two integers: "<<endl;
 
-  cin>> a >> b;
+  cin>> "enter a " >> a; >> endl;
+  cin>> "enter b " >> b; >> endl;
 
 
 
