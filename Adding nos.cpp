@@ -10,8 +10,8 @@ int main()
 
   cout << "Enter two integers: "<<endl;
 
-  cin>> "enter a " >> a; >> endl;
-  cin>> "enter b " >> b; >> endl;
+  cin>> "enter a " >> a >> endl;
+  cin>> "enter b " >> b >> endl;
 
   sum = a + b;
 
