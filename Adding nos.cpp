@@ -7,8 +7,8 @@ int main()
 
   int a,b, sum;
 
-  
-  cout << "Enter two nos of type : "<<endl;
+  cout << "use int nos only as it type is int"<<endl;
+  cout << "Enter two nos of type int: "<<endl;
 
   cout<< " enter a "<< endl;
   cin>> a ;
