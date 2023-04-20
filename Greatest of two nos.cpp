@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 {
 int a,b;
 
@@ -22,4 +21,5 @@ cout<<" b is greater" <<endl;
 }
 
 return 0;
+}
 }
