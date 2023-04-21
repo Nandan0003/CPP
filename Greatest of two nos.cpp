@@ -15,12 +15,14 @@ cin>> b;
 {
 if (a>b)
 {
-cout<<" a is greater "<< endl;
+cout<<"😤 a is greater😤 "<< endl;
+}
+if (a<b)
+{
+cout<<"😱 b is greater😱" <<endl;
 }
 else 
-{
-cout<<" b is greater" <<endl;
-}
+cout<< "☠️ nos are equal☠️"<<endl;
 }
 return 0;
 }
