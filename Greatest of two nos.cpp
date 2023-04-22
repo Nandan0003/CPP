@@ -7,6 +7,7 @@ int main()
 {
 int a,b;
 
+cout<<"NKM"<<endl;
 cout<<"enter a"<< endl;
 cin>> a ;
 cout<<"enter b"<<endl;
