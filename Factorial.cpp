@@ -4,7 +4,7 @@ int main()
 {
 int i,fact=1,no;
 
-cout<<" enter a no<< endl;
+cout<<" enter a no"<< endl;
 cin>> no;
 
 for(i=0;i<=no;i++)
