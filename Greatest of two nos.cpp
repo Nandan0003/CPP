@@ -2,7 +2,7 @@
 using namespace std;
 
 
-
+//program starts here
 int main()
 {
 int a,b;
