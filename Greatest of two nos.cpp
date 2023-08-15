@@ -31,3 +31,6 @@ cout<< "☠️ nos are equal☠️"<<endl;
 return 0;
 }
 
+
+
+
