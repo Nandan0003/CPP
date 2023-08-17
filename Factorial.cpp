@@ -17,3 +17,6 @@ for(i=0;i<=no;i++)
 cout<<"factorial of " << no << "is" << fact <<endl;
 return 0;
 }
+
+
+
